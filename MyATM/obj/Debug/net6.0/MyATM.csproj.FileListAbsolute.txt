@@ -1,0 +1,5 @@
+C:\Users\TEBOHO\Desktop\MyATM\MyATM\obj\Debug\net6.0\MyATM.csproj.AssemblyReference.cache
+C:\Users\TEBOHO\Desktop\MyATM\MyATM\obj\Debug\net6.0\MyATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEBOHO\Desktop\MyATM\MyATM\obj\Debug\net6.0\MyATM.AssemblyInfoInputs.cache
+C:\Users\TEBOHO\Desktop\MyATM\MyATM\obj\Debug\net6.0\MyATM.AssemblyInfo.cs
+C:\Users\TEBOHO\Desktop\MyATM\MyATM\obj\Debug\net6.0\MyATM.csproj.CoreCompileInputs.cache
